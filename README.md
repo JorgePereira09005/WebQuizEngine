@@ -29,6 +29,7 @@ Deleting a quiz:
 Retrieving every quiz (supports pagination):
 
 
+![image](https://user-images.githubusercontent.com/61985975/82440740-be7e3180-9a94-11ea-9f01-a53e1964fdb4.png)
 
 
 
