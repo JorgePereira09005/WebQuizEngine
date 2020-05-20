@@ -16,20 +16,29 @@ Registration:
 
 Posting a new quiz after authenticating:
 
-
 ![posting](https://user-images.githubusercontent.com/61985975/82440555-719a5b00-9a94-11ea-927e-9e35bdca3019.jpg)
 
 
 Deleting a quiz:
-
 
 ![image](https://user-images.githubusercontent.com/61985975/82439998-89bdaa80-9a93-11ea-9496-db161153823c.png)
 
 
 Retrieving every quiz (supports pagination):
 
-
 ![image](https://user-images.githubusercontent.com/61985975/82440740-be7e3180-9a94-11ea-9f01-a53e1964fdb4.png)
+
+
+Solving a quiz:
+
+![image](https://user-images.githubusercontent.com/61985975/82440977-1ae15100-9a95-11ea-9fd4-9284adf4a5bd.png)
+
+
+Failure to authenticate:
+
+![image](https://user-images.githubusercontent.com/61985975/82441154-6e539f00-9a95-11ea-8abf-460d6903dbf4.png)
+
+
 
 
 
